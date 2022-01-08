@@ -1,1 +1,1 @@
-# smarcopilot-issues
+# SmartCopilot issues 
